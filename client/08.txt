@@ -1,0 +1,390 @@
+10/08/16 10:23:47           table: 0x00a2a920
+10/08/16 10:23:47           [INFO] 
+10/08/16 10:23:47           [INFO] # DEBUG                        = 2
+10/08/16 10:23:47           [INFO] #
+10/08/16 10:23:47           [INFO] # device.platform              = windows
+10/08/16 10:23:47           [INFO] # device.model                 = unknown
+10/08/16 10:23:47           [INFO] # device.language              = cn
+10/08/16 10:23:47           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:23:47           [INFO] # device.directorySeparator    = \
+10/08/16 10:23:47           [INFO] # device.pathSeparator         = ;
+10/08/16 10:23:47           [INFO] #
+10/08/16 10:23:47           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:23:47           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:23:47           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:23:47           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:23:47           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:23:47           [INFO] # display.width                = 1024.00
+10/08/16 10:23:47           [INFO] # display.height               = 738.00
+10/08/16 10:23:47           [INFO] # display.cx                   = 512.00
+10/08/16 10:23:47           [INFO] # display.cy                   = 369.00
+10/08/16 10:23:47           [INFO] # display.left                 = 0.00
+10/08/16 10:23:47           [INFO] # display.right                = 1024.00
+10/08/16 10:23:47           [INFO] # display.top                  = 738.00
+10/08/16 10:23:47           [INFO] # display.bottom               = 0.00
+10/08/16 10:23:47           [INFO] # display.c_left               = -512.00
+10/08/16 10:23:47           [INFO] # display.c_right              = 512.00
+10/08/16 10:23:47           [INFO] # display.c_top                = 369.00
+10/08/16 10:23:47           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:23:47           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:23:47           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:23:47           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:23:47           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:23:47           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:23:47           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:23:47           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:23:47           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:23:47           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:23:47           [INFO] #
+10/08/16 10:23:47           wo kao
+10/08/16 10:25:12           table: 0x02a4a948
+10/08/16 10:25:12           [INFO] 
+10/08/16 10:25:12           [INFO] # DEBUG                        = 2
+10/08/16 10:25:12           [INFO] #
+10/08/16 10:25:12           [INFO] # device.platform              = windows
+10/08/16 10:25:12           [INFO] # device.model                 = unknown
+10/08/16 10:25:12           [INFO] # device.language              = cn
+10/08/16 10:25:12           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:25:12           [INFO] # device.directorySeparator    = \
+10/08/16 10:25:12           [INFO] # device.pathSeparator         = ;
+10/08/16 10:25:12           [INFO] #
+10/08/16 10:25:12           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:25:12           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:25:12           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:25:12           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:25:12           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:25:12           [INFO] # display.width                = 1024.00
+10/08/16 10:25:12           [INFO] # display.height               = 738.00
+10/08/16 10:25:12           [INFO] # display.cx                   = 512.00
+10/08/16 10:25:12           [INFO] # display.cy                   = 369.00
+10/08/16 10:25:12           [INFO] # display.left                 = 0.00
+10/08/16 10:25:12           [INFO] # display.right                = 1024.00
+10/08/16 10:25:12           [INFO] # display.top                  = 738.00
+10/08/16 10:25:12           [INFO] # display.bottom               = 0.00
+10/08/16 10:25:12           [INFO] # display.c_left               = -512.00
+10/08/16 10:25:12           [INFO] # display.c_right              = 512.00
+10/08/16 10:25:12           [INFO] # display.c_top                = 369.00
+10/08/16 10:25:12           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:25:12           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:25:12           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:25:12           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:25:12           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:25:12           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:25:12           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:25:12           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:25:12           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:25:12           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:25:12           [INFO] #
+10/08/16 10:25:12           wo kao
+10/08/16 10:25:56           table: 0x04b5a838
+10/08/16 10:25:56           [INFO] 
+10/08/16 10:25:56           [INFO] # DEBUG                        = 2
+10/08/16 10:25:56           [INFO] #
+10/08/16 10:25:56           [INFO] # device.platform              = windows
+10/08/16 10:25:56           [INFO] # device.model                 = unknown
+10/08/16 10:25:56           [INFO] # device.language              = cn
+10/08/16 10:25:56           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:25:56           [INFO] # device.directorySeparator    = \
+10/08/16 10:25:56           [INFO] # device.pathSeparator         = ;
+10/08/16 10:25:56           [INFO] #
+10/08/16 10:25:56           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:25:56           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:25:56           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:25:56           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:25:56           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:25:56           [INFO] # display.width                = 1024.00
+10/08/16 10:25:56           [INFO] # display.height               = 738.00
+10/08/16 10:25:56           [INFO] # display.cx                   = 512.00
+10/08/16 10:25:56           [INFO] # display.cy                   = 369.00
+10/08/16 10:25:56           [INFO] # display.left                 = 0.00
+10/08/16 10:25:56           [INFO] # display.right                = 1024.00
+10/08/16 10:25:56           [INFO] # display.top                  = 738.00
+10/08/16 10:25:56           [INFO] # display.bottom               = 0.00
+10/08/16 10:25:56           [INFO] # display.c_left               = -512.00
+10/08/16 10:25:56           [INFO] # display.c_right              = 512.00
+10/08/16 10:25:56           [INFO] # display.c_top                = 369.00
+10/08/16 10:25:56           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:25:56           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:25:56           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:25:56           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:25:56           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:25:56           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:25:56           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:25:56           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:25:56           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:25:56           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:25:56           [INFO] #
+10/08/16 10:25:56           wo kao
+10/08/16 10:26:00           table: 0x00cea838
+10/08/16 10:26:00           [INFO] 
+10/08/16 10:26:00           [INFO] # DEBUG                        = 2
+10/08/16 10:26:00           [INFO] #
+10/08/16 10:26:00           [INFO] # device.platform              = windows
+10/08/16 10:26:00           [INFO] # device.model                 = unknown
+10/08/16 10:26:00           [INFO] # device.language              = cn
+10/08/16 10:26:00           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:26:00           [INFO] # device.directorySeparator    = \
+10/08/16 10:26:00           [INFO] # device.pathSeparator         = ;
+10/08/16 10:26:00           [INFO] #
+10/08/16 10:26:00           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:26:00           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:26:00           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:26:00           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:26:00           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:26:00           [INFO] # display.width                = 1024.00
+10/08/16 10:26:00           [INFO] # display.height               = 738.00
+10/08/16 10:26:00           [INFO] # display.cx                   = 512.00
+10/08/16 10:26:00           [INFO] # display.cy                   = 369.00
+10/08/16 10:26:00           [INFO] # display.left                 = 0.00
+10/08/16 10:26:00           [INFO] # display.right                = 1024.00
+10/08/16 10:26:00           [INFO] # display.top                  = 738.00
+10/08/16 10:26:00           [INFO] # display.bottom               = 0.00
+10/08/16 10:26:00           [INFO] # display.c_left               = -512.00
+10/08/16 10:26:00           [INFO] # display.c_right              = 512.00
+10/08/16 10:26:00           [INFO] # display.c_top                = 369.00
+10/08/16 10:26:00           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:26:00           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:26:00           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:26:00           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:26:00           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:26:00           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:26:00           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:26:00           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:26:00           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:26:00           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:26:00           [INFO] #
+10/08/16 10:26:00           wo kao
+10/08/16 10:28:34           table: 0x04a4a838
+10/08/16 10:28:34           [INFO] 
+10/08/16 10:28:34           [INFO] # DEBUG                        = 2
+10/08/16 10:28:34           [INFO] #
+10/08/16 10:28:34           [INFO] # device.platform              = windows
+10/08/16 10:28:34           [INFO] # device.model                 = unknown
+10/08/16 10:28:34           [INFO] # device.language              = cn
+10/08/16 10:28:34           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:28:34           [INFO] # device.directorySeparator    = \
+10/08/16 10:28:34           [INFO] # device.pathSeparator         = ;
+10/08/16 10:28:34           [INFO] #
+10/08/16 10:28:34           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:28:34           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:28:34           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:28:34           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:28:34           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:28:34           [INFO] # display.width                = 1024.00
+10/08/16 10:28:34           [INFO] # display.height               = 738.00
+10/08/16 10:28:34           [INFO] # display.cx                   = 512.00
+10/08/16 10:28:34           [INFO] # display.cy                   = 369.00
+10/08/16 10:28:34           [INFO] # display.left                 = 0.00
+10/08/16 10:28:34           [INFO] # display.right                = 1024.00
+10/08/16 10:28:34           [INFO] # display.top                  = 738.00
+10/08/16 10:28:34           [INFO] # display.bottom               = 0.00
+10/08/16 10:28:34           [INFO] # display.c_left               = -512.00
+10/08/16 10:28:34           [INFO] # display.c_right              = 512.00
+10/08/16 10:28:34           [INFO] # display.c_top                = 369.00
+10/08/16 10:28:34           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:28:34           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:28:34           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:28:34           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:28:34           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:28:34           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:28:34           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:28:34           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:28:34           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:28:34           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:28:34           [INFO] #
+10/08/16 10:28:34           wo kao
+10/08/16 10:28:50           table: 0x00f9a838
+10/08/16 10:28:50           [INFO] 
+10/08/16 10:28:50           [INFO] # DEBUG                        = 2
+10/08/16 10:28:50           [INFO] #
+10/08/16 10:28:50           [INFO] # device.platform              = windows
+10/08/16 10:28:50           [INFO] # device.model                 = unknown
+10/08/16 10:28:50           [INFO] # device.language              = cn
+10/08/16 10:28:50           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:28:50           [INFO] # device.directorySeparator    = \
+10/08/16 10:28:50           [INFO] # device.pathSeparator         = ;
+10/08/16 10:28:50           [INFO] #
+10/08/16 10:28:50           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:28:50           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:28:50           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:28:50           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:28:50           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:28:50           [INFO] # display.width                = 1024.00
+10/08/16 10:28:50           [INFO] # display.height               = 738.00
+10/08/16 10:28:50           [INFO] # display.cx                   = 512.00
+10/08/16 10:28:50           [INFO] # display.cy                   = 369.00
+10/08/16 10:28:50           [INFO] # display.left                 = 0.00
+10/08/16 10:28:50           [INFO] # display.right                = 1024.00
+10/08/16 10:28:50           [INFO] # display.top                  = 738.00
+10/08/16 10:28:50           [INFO] # display.bottom               = 0.00
+10/08/16 10:28:50           [INFO] # display.c_left               = -512.00
+10/08/16 10:28:50           [INFO] # display.c_right              = 512.00
+10/08/16 10:28:50           [INFO] # display.c_top                = 369.00
+10/08/16 10:28:50           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:28:50           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:28:50           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:28:50           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:28:50           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:28:50           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:28:50           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:28:50           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:28:50           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:28:50           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:28:50           [INFO] #
+10/08/16 10:28:50           wo kao
+10/08/16 10:35:13           table: 0x013aa838
+10/08/16 10:35:13           [INFO] 
+10/08/16 10:35:13           [INFO] # DEBUG                        = 2
+10/08/16 10:35:13           [INFO] #
+10/08/16 10:35:13           [INFO] # device.platform              = windows
+10/08/16 10:35:13           [INFO] # device.model                 = unknown
+10/08/16 10:35:13           [INFO] # device.language              = cn
+10/08/16 10:35:13           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:35:13           [INFO] # device.directorySeparator    = \
+10/08/16 10:35:13           [INFO] # device.pathSeparator         = ;
+10/08/16 10:35:13           [INFO] #
+10/08/16 10:35:13           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:35:13           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:35:13           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:35:13           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:35:13           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:35:13           [INFO] # display.width                = 1024.00
+10/08/16 10:35:13           [INFO] # display.height               = 738.00
+10/08/16 10:35:13           [INFO] # display.cx                   = 512.00
+10/08/16 10:35:13           [INFO] # display.cy                   = 369.00
+10/08/16 10:35:13           [INFO] # display.left                 = 0.00
+10/08/16 10:35:13           [INFO] # display.right                = 1024.00
+10/08/16 10:35:13           [INFO] # display.top                  = 738.00
+10/08/16 10:35:13           [INFO] # display.bottom               = 0.00
+10/08/16 10:35:13           [INFO] # display.c_left               = -512.00
+10/08/16 10:35:13           [INFO] # display.c_right              = 512.00
+10/08/16 10:35:13           [INFO] # display.c_top                = 369.00
+10/08/16 10:35:13           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:35:13           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:35:13           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:35:13           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:35:13           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:35:13           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:35:13           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:35:13           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:35:13           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:35:13           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:35:13           [INFO] #
+10/08/16 10:35:13           wo kao
+10/08/16 10:40:11           table: 0x0494a838
+10/08/16 10:40:11           [INFO] 
+10/08/16 10:40:11           [INFO] # DEBUG                        = 2
+10/08/16 10:40:11           [INFO] #
+10/08/16 10:40:11           [INFO] # device.platform              = windows
+10/08/16 10:40:11           [INFO] # device.model                 = unknown
+10/08/16 10:40:11           [INFO] # device.language              = cn
+10/08/16 10:40:11           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:40:11           [INFO] # device.directorySeparator    = \
+10/08/16 10:40:11           [INFO] # device.pathSeparator         = ;
+10/08/16 10:40:11           [INFO] #
+10/08/16 10:40:11           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:40:11           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:40:11           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:40:11           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:40:11           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:40:11           [INFO] # display.width                = 1024.00
+10/08/16 10:40:11           [INFO] # display.height               = 738.00
+10/08/16 10:40:11           [INFO] # display.cx                   = 512.00
+10/08/16 10:40:11           [INFO] # display.cy                   = 369.00
+10/08/16 10:40:11           [INFO] # display.left                 = 0.00
+10/08/16 10:40:11           [INFO] # display.right                = 1024.00
+10/08/16 10:40:11           [INFO] # display.top                  = 738.00
+10/08/16 10:40:11           [INFO] # display.bottom               = 0.00
+10/08/16 10:40:11           [INFO] # display.c_left               = -512.00
+10/08/16 10:40:11           [INFO] # display.c_right              = 512.00
+10/08/16 10:40:11           [INFO] # display.c_top                = 369.00
+10/08/16 10:40:11           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:40:11           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:40:11           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:40:11           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:40:11           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:40:11           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:40:11           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:40:11           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:40:11           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:40:11           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:40:11           [INFO] #
+10/08/16 10:40:11           wo kao
+10/08/16 10:40:17           table: 0x00f8a838
+10/08/16 10:40:17           [INFO] 
+10/08/16 10:40:17           [INFO] # DEBUG                        = 2
+10/08/16 10:40:17           [INFO] #
+10/08/16 10:40:17           [INFO] # device.platform              = windows
+10/08/16 10:40:17           [INFO] # device.model                 = unknown
+10/08/16 10:40:17           [INFO] # device.language              = cn
+10/08/16 10:40:17           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:40:17           [INFO] # device.directorySeparator    = \
+10/08/16 10:40:17           [INFO] # device.pathSeparator         = ;
+10/08/16 10:40:17           [INFO] #
+10/08/16 10:40:17           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:40:17           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:40:17           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:40:17           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:40:17           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:40:17           [INFO] # display.width                = 1024.00
+10/08/16 10:40:17           [INFO] # display.height               = 738.00
+10/08/16 10:40:17           [INFO] # display.cx                   = 512.00
+10/08/16 10:40:17           [INFO] # display.cy                   = 369.00
+10/08/16 10:40:17           [INFO] # display.left                 = 0.00
+10/08/16 10:40:17           [INFO] # display.right                = 1024.00
+10/08/16 10:40:17           [INFO] # display.top                  = 738.00
+10/08/16 10:40:17           [INFO] # display.bottom               = 0.00
+10/08/16 10:40:17           [INFO] # display.c_left               = -512.00
+10/08/16 10:40:17           [INFO] # display.c_right              = 512.00
+10/08/16 10:40:17           [INFO] # display.c_top                = 369.00
+10/08/16 10:40:17           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:40:17           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:40:17           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:40:17           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:40:17           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:40:17           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:40:17           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:40:17           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:40:17           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:40:17           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:40:17           [INFO] #
+10/08/16 10:40:17           wo kao
+10/08/16 10:47:57           table: 0x0503a838
+10/08/16 10:47:57           [INFO] 
+10/08/16 10:47:57           [INFO] # DEBUG                        = 2
+10/08/16 10:47:57           [INFO] #
+10/08/16 10:47:57           [INFO] # device.platform              = windows
+10/08/16 10:47:57           [INFO] # device.model                 = unknown
+10/08/16 10:47:57           [INFO] # device.language              = cn
+10/08/16 10:47:57           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 10:47:57           [INFO] # device.directorySeparator    = \
+10/08/16 10:47:57           [INFO] # device.pathSeparator         = ;
+10/08/16 10:47:57           [INFO] #
+10/08/16 10:47:57           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 10:47:57           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 10:47:57           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 10:47:57           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 10:47:57           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 10:47:57           [INFO] # display.width                = 1024.00
+10/08/16 10:47:57           [INFO] # display.height               = 738.00
+10/08/16 10:47:57           [INFO] # display.cx                   = 512.00
+10/08/16 10:47:57           [INFO] # display.cy                   = 369.00
+10/08/16 10:47:57           [INFO] # display.left                 = 0.00
+10/08/16 10:47:57           [INFO] # display.right                = 1024.00
+10/08/16 10:47:57           [INFO] # display.top                  = 738.00
+10/08/16 10:47:57           [INFO] # display.bottom               = 0.00
+10/08/16 10:47:57           [INFO] # display.c_left               = -512.00
+10/08/16 10:47:57           [INFO] # display.c_right              = 512.00
+10/08/16 10:47:57           [INFO] # display.c_top                = 369.00
+10/08/16 10:47:57           [INFO] # display.c_bottom             = -369.00
+10/08/16 10:47:57           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 10:47:57           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 10:47:57           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 10:47:57           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 10:47:57           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 10:47:57           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 10:47:57           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 10:47:57           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 10:47:57           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 10:47:57           [INFO] #
+10/08/16 10:47:57           wo kao
