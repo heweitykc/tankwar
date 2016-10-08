@@ -2,7 +2,7 @@ local file = io.open(cc.FileUtils:getInstance():getWritablePath() .. os.date("%d
 
 --  Ð´ÈëÎÄ¼þlog
 local function debugprint(msg)
-    file:write(os.date("%c") .. "           ")
+    file:write(os.date("%c") .. "  ")
     file:write(tostring(msg))
     file:write("\n")
     file:flush()

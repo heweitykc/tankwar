@@ -388,3 +388,767 @@
 10/08/16 10:47:57           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
 10/08/16 10:47:57           [INFO] #
 10/08/16 10:47:57           wo kao
+10/08/16 11:04:15           table: 0x0306a838
+10/08/16 11:04:15           [INFO] 
+10/08/16 11:04:15           [INFO] # DEBUG                        = 2
+10/08/16 11:04:15           [INFO] #
+10/08/16 11:04:15           [INFO] # device.platform              = windows
+10/08/16 11:04:15           [INFO] # device.model                 = unknown
+10/08/16 11:04:15           [INFO] # device.language              = cn
+10/08/16 11:04:15           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:04:15           [INFO] # device.directorySeparator    = \
+10/08/16 11:04:15           [INFO] # device.pathSeparator         = ;
+10/08/16 11:04:15           [INFO] #
+10/08/16 11:04:15           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:04:15           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:04:15           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:04:15           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:04:15           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:04:15           [INFO] # display.width                = 1024.00
+10/08/16 11:04:15           [INFO] # display.height               = 738.00
+10/08/16 11:04:15           [INFO] # display.cx                   = 512.00
+10/08/16 11:04:15           [INFO] # display.cy                   = 369.00
+10/08/16 11:04:15           [INFO] # display.left                 = 0.00
+10/08/16 11:04:15           [INFO] # display.right                = 1024.00
+10/08/16 11:04:15           [INFO] # display.top                  = 738.00
+10/08/16 11:04:15           [INFO] # display.bottom               = 0.00
+10/08/16 11:04:15           [INFO] # display.c_left               = -512.00
+10/08/16 11:04:15           [INFO] # display.c_right              = 512.00
+10/08/16 11:04:15           [INFO] # display.c_top                = 369.00
+10/08/16 11:04:15           [INFO] # display.c_bottom             = -369.00
+10/08/16 11:04:15           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:04:15           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:04:15           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:04:15           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:04:15           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:04:15           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:04:15           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:04:15           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:04:15           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:04:15           [INFO] #
+10/08/16 11:04:15           GameMain 1 : init
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:15           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:16           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:17           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:18           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:37           table: 0x04fea838
+10/08/16 11:04:37           [INFO] 
+10/08/16 11:04:37           [INFO] # DEBUG                        = 2
+10/08/16 11:04:37           [INFO] #
+10/08/16 11:04:37           [INFO] # device.platform              = windows
+10/08/16 11:04:37           [INFO] # device.model                 = unknown
+10/08/16 11:04:37           [INFO] # device.language              = cn
+10/08/16 11:04:37           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:04:37           [INFO] # device.directorySeparator    = \
+10/08/16 11:04:37           [INFO] # device.pathSeparator         = ;
+10/08/16 11:04:37           [INFO] #
+10/08/16 11:04:37           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:04:37           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:04:37           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:04:37           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:04:37           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:04:37           [INFO] # display.width                = 1024.00
+10/08/16 11:04:37           [INFO] # display.height               = 738.00
+10/08/16 11:04:37           [INFO] # display.cx                   = 512.00
+10/08/16 11:04:37           [INFO] # display.cy                   = 369.00
+10/08/16 11:04:37           [INFO] # display.left                 = 0.00
+10/08/16 11:04:37           [INFO] # display.right                = 1024.00
+10/08/16 11:04:37           [INFO] # display.top                  = 738.00
+10/08/16 11:04:37           [INFO] # display.bottom               = 0.00
+10/08/16 11:04:37           [INFO] # display.c_left               = -512.00
+10/08/16 11:04:37           [INFO] # display.c_right              = 512.00
+10/08/16 11:04:37           [INFO] # display.c_top                = 369.00
+10/08/16 11:04:37           [INFO] # display.c_bottom             = -369.00
+10/08/16 11:04:37           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:04:37           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:04:37           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:04:37           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:04:37           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:04:37           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:04:37           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:04:37           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:04:37           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:04:37           [INFO] #
+10/08/16 11:04:38           GameMain 1 : init
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:38           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:04:39           [string ".\network/ws.lua"]:49: attempt to index global 'Enum' (a nil value)
+stack traceback:
+10/08/16 11:05:46           table: 0x0101a808
+10/08/16 11:05:46           [INFO] 
+10/08/16 11:05:46           [INFO] # DEBUG                        = 2
+10/08/16 11:05:46           [INFO] #
+10/08/16 11:05:46           [INFO] # device.platform              = windows
+10/08/16 11:05:46           [INFO] # device.model                 = unknown
+10/08/16 11:05:46           [INFO] # device.language              = cn
+10/08/16 11:05:46           [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:05:46           [INFO] # device.directorySeparator    = \
+10/08/16 11:05:46           [INFO] # device.pathSeparator         = ;
+10/08/16 11:05:46           [INFO] #
+10/08/16 11:05:46           [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:05:46           [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:05:46           [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:05:46           [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:05:46           [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:05:46           [INFO] # display.width                = 1024.00
+10/08/16 11:05:46           [INFO] # display.height               = 738.00
+10/08/16 11:05:46           [INFO] # display.cx                   = 512.00
+10/08/16 11:05:46           [INFO] # display.cy                   = 369.00
+10/08/16 11:05:46           [INFO] # display.left                 = 0.00
+10/08/16 11:05:46           [INFO] # display.right                = 1024.00
+10/08/16 11:05:46           [INFO] # display.top                  = 738.00
+10/08/16 11:05:46           [INFO] # display.bottom               = 0.00
+10/08/16 11:05:46           [INFO] # display.c_left               = -512.00
+10/08/16 11:05:46           [INFO] # display.c_right              = 512.00
+10/08/16 11:05:46           [INFO] # display.c_top                = 369.00
+10/08/16 11:05:46           [INFO] # display.c_bottom             = -369.00
+10/08/16 11:05:46           [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:05:46           [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:05:46           [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:05:46           [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:05:46           [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:05:46           [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:05:46           [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:05:46           [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:05:46           [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:05:46           [INFO] #
+10/08/16 11:05:46           GameMain 1 : init
+10/08/16 11:18:25  table: 0x0105a808
+10/08/16 11:18:25  [INFO] 
+10/08/16 11:18:25  [INFO] # DEBUG                        = 2
+10/08/16 11:18:25  [INFO] #
+10/08/16 11:18:25  [INFO] # device.platform              = windows
+10/08/16 11:18:25  [INFO] # device.model                 = unknown
+10/08/16 11:18:25  [INFO] # device.language              = cn
+10/08/16 11:18:25  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:18:25  [INFO] # device.directorySeparator    = \
+10/08/16 11:18:25  [INFO] # device.pathSeparator         = ;
+10/08/16 11:18:25  [INFO] #
+10/08/16 11:18:25  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:18:25  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:18:25  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:18:25  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:18:25  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:18:25  [INFO] # display.width                = 1024.00
+10/08/16 11:18:25  [INFO] # display.height               = 738.00
+10/08/16 11:18:25  [INFO] # display.cx                   = 512.00
+10/08/16 11:18:25  [INFO] # display.cy                   = 369.00
+10/08/16 11:18:25  [INFO] # display.left                 = 0.00
+10/08/16 11:18:25  [INFO] # display.right                = 1024.00
+10/08/16 11:18:25  [INFO] # display.top                  = 738.00
+10/08/16 11:18:25  [INFO] # display.bottom               = 0.00
+10/08/16 11:18:25  [INFO] # display.c_left               = -512.00
+10/08/16 11:18:25  [INFO] # display.c_right              = 512.00
+10/08/16 11:18:25  [INFO] # display.c_top                = 369.00
+10/08/16 11:18:25  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:18:25  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:18:25  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:18:25  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:18:25  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:18:25  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:18:25  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:18:25  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:18:25  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:18:25  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:18:25  [INFO] #
+10/08/16 11:18:25  GameMain 1 : init
+10/08/16 11:18:25  [string ".\scene2.lua"]:40: attempt to call method 'resgiterSceneEvent' (a nil value)
+stack traceback:
+	[string ".\src/main.lua"]:22: in function <[string ".\src/main.lua"]:21>
+	[C]: in function 'xpcall'
+	[string ".\src/main.lua"]:26: in main chunk
+	[C]: in function 'require'
+	[string "require "src/main.lua""]:1: in main chunk
+10/08/16 11:18:25  [string ".\scene2.lua"]:40: attempt to call method 'resgiterSceneEvent' (a nil value)
+stack traceback:
+	[string ".\src/main.lua"]:22: in function <[string ".\src/main.lua"]:21>
+	[C]: in function 'xpcall'
+	[string ".\src/main.lua"]:26: in main chunk
+	[C]: in function 'require'
+	[string "require "src/main.lua""]:1: in main chunk
+10/08/16 11:18:45  table: 0x00a8a838
+10/08/16 11:18:45  [INFO] 
+10/08/16 11:18:45  [INFO] # DEBUG                        = 2
+10/08/16 11:18:45  [INFO] #
+10/08/16 11:18:45  [INFO] # device.platform              = windows
+10/08/16 11:18:45  [INFO] # device.model                 = unknown
+10/08/16 11:18:45  [INFO] # device.language              = cn
+10/08/16 11:18:45  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:18:45  [INFO] # device.directorySeparator    = \
+10/08/16 11:18:45  [INFO] # device.pathSeparator         = ;
+10/08/16 11:18:45  [INFO] #
+10/08/16 11:18:45  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:18:45  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:18:45  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:18:45  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:18:45  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:18:45  [INFO] # display.width                = 1024.00
+10/08/16 11:18:45  [INFO] # display.height               = 738.00
+10/08/16 11:18:45  [INFO] # display.cx                   = 512.00
+10/08/16 11:18:45  [INFO] # display.cy                   = 369.00
+10/08/16 11:18:45  [INFO] # display.left                 = 0.00
+10/08/16 11:18:45  [INFO] # display.right                = 1024.00
+10/08/16 11:18:45  [INFO] # display.top                  = 738.00
+10/08/16 11:18:45  [INFO] # display.bottom               = 0.00
+10/08/16 11:18:45  [INFO] # display.c_left               = -512.00
+10/08/16 11:18:45  [INFO] # display.c_right              = 512.00
+10/08/16 11:18:45  [INFO] # display.c_top                = 369.00
+10/08/16 11:18:45  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:18:45  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:18:45  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:18:45  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:18:45  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:18:45  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:18:45  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:18:45  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:18:45  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:18:45  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:18:45  [INFO] #
+10/08/16 11:18:45  GameMain 1 : init
+10/08/16 11:22:24  table: 0x010ca838
+10/08/16 11:22:24  [INFO] 
+10/08/16 11:22:24  [INFO] # DEBUG                        = 2
+10/08/16 11:22:24  [INFO] #
+10/08/16 11:22:24  [INFO] # device.platform              = windows
+10/08/16 11:22:24  [INFO] # device.model                 = unknown
+10/08/16 11:22:24  [INFO] # device.language              = cn
+10/08/16 11:22:24  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:22:24  [INFO] # device.directorySeparator    = \
+10/08/16 11:22:24  [INFO] # device.pathSeparator         = ;
+10/08/16 11:22:24  [INFO] #
+10/08/16 11:22:24  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:22:24  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:22:24  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:22:24  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:22:24  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:22:24  [INFO] # display.width                = 1024.00
+10/08/16 11:22:24  [INFO] # display.height               = 738.00
+10/08/16 11:22:24  [INFO] # display.cx                   = 512.00
+10/08/16 11:22:24  [INFO] # display.cy                   = 369.00
+10/08/16 11:22:24  [INFO] # display.left                 = 0.00
+10/08/16 11:22:24  [INFO] # display.right                = 1024.00
+10/08/16 11:22:24  [INFO] # display.top                  = 738.00
+10/08/16 11:22:24  [INFO] # display.bottom               = 0.00
+10/08/16 11:22:24  [INFO] # display.c_left               = -512.00
+10/08/16 11:22:24  [INFO] # display.c_right              = 512.00
+10/08/16 11:22:24  [INFO] # display.c_top                = 369.00
+10/08/16 11:22:24  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:22:24  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:22:24  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:22:24  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:22:24  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:22:24  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:22:24  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:22:24  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:22:24  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:22:24  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:22:24  [INFO] #
+10/08/16 11:22:24  GameMain 1 : init
+10/08/16 11:23:34  table: 0x04a2a838
+10/08/16 11:23:34  [INFO] 
+10/08/16 11:23:34  [INFO] # DEBUG                        = 2
+10/08/16 11:23:34  [INFO] #
+10/08/16 11:23:34  [INFO] # device.platform              = windows
+10/08/16 11:23:34  [INFO] # device.model                 = unknown
+10/08/16 11:23:34  [INFO] # device.language              = cn
+10/08/16 11:23:34  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:23:34  [INFO] # device.directorySeparator    = \
+10/08/16 11:23:34  [INFO] # device.pathSeparator         = ;
+10/08/16 11:23:34  [INFO] #
+10/08/16 11:23:34  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:23:34  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:23:34  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:23:34  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:23:34  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:23:34  [INFO] # display.width                = 1024.00
+10/08/16 11:23:34  [INFO] # display.height               = 738.00
+10/08/16 11:23:34  [INFO] # display.cx                   = 512.00
+10/08/16 11:23:34  [INFO] # display.cy                   = 369.00
+10/08/16 11:23:34  [INFO] # display.left                 = 0.00
+10/08/16 11:23:34  [INFO] # display.right                = 1024.00
+10/08/16 11:23:34  [INFO] # display.top                  = 738.00
+10/08/16 11:23:34  [INFO] # display.bottom               = 0.00
+10/08/16 11:23:34  [INFO] # display.c_left               = -512.00
+10/08/16 11:23:34  [INFO] # display.c_right              = 512.00
+10/08/16 11:23:34  [INFO] # display.c_top                = 369.00
+10/08/16 11:23:34  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:23:34  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:23:34  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:23:34  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:23:34  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:23:34  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:23:34  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:23:34  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:23:34  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:23:34  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:23:34  [INFO] #
+10/08/16 11:23:34  GameMain 1 : init
+10/08/16 11:31:23  table: 0x00f0a838
+10/08/16 11:31:23  [INFO] 
+10/08/16 11:31:23  [INFO] # DEBUG                        = 2
+10/08/16 11:31:23  [INFO] #
+10/08/16 11:31:23  [INFO] # device.platform              = windows
+10/08/16 11:31:23  [INFO] # device.model                 = unknown
+10/08/16 11:31:23  [INFO] # device.language              = cn
+10/08/16 11:31:23  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:31:23  [INFO] # device.directorySeparator    = \
+10/08/16 11:31:23  [INFO] # device.pathSeparator         = ;
+10/08/16 11:31:23  [INFO] #
+10/08/16 11:31:23  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:31:23  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:31:23  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:31:23  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:31:23  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:31:23  [INFO] # display.width                = 1024.00
+10/08/16 11:31:23  [INFO] # display.height               = 738.00
+10/08/16 11:31:23  [INFO] # display.cx                   = 512.00
+10/08/16 11:31:23  [INFO] # display.cy                   = 369.00
+10/08/16 11:31:23  [INFO] # display.left                 = 0.00
+10/08/16 11:31:23  [INFO] # display.right                = 1024.00
+10/08/16 11:31:23  [INFO] # display.top                  = 738.00
+10/08/16 11:31:23  [INFO] # display.bottom               = 0.00
+10/08/16 11:31:23  [INFO] # display.c_left               = -512.00
+10/08/16 11:31:23  [INFO] # display.c_right              = 512.00
+10/08/16 11:31:23  [INFO] # display.c_top                = 369.00
+10/08/16 11:31:23  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:31:23  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:31:23  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:31:23  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:31:23  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:31:23  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:31:23  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:31:23  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:31:23  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:31:23  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:31:23  [INFO] #
+10/08/16 11:31:23  GameMain 1 : init
+10/08/16 11:35:26  table: 0x03aba838
+10/08/16 11:35:26  [INFO] 
+10/08/16 11:35:26  [INFO] # DEBUG                        = 2
+10/08/16 11:35:26  [INFO] #
+10/08/16 11:35:26  [INFO] # device.platform              = windows
+10/08/16 11:35:26  [INFO] # device.model                 = unknown
+10/08/16 11:35:26  [INFO] # device.language              = cn
+10/08/16 11:35:26  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:35:26  [INFO] # device.directorySeparator    = \
+10/08/16 11:35:26  [INFO] # device.pathSeparator         = ;
+10/08/16 11:35:26  [INFO] #
+10/08/16 11:35:26  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:35:26  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:35:26  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:35:26  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:35:26  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:35:26  [INFO] # display.width                = 1024.00
+10/08/16 11:35:26  [INFO] # display.height               = 738.00
+10/08/16 11:35:26  [INFO] # display.cx                   = 512.00
+10/08/16 11:35:26  [INFO] # display.cy                   = 369.00
+10/08/16 11:35:26  [INFO] # display.left                 = 0.00
+10/08/16 11:35:26  [INFO] # display.right                = 1024.00
+10/08/16 11:35:26  [INFO] # display.top                  = 738.00
+10/08/16 11:35:26  [INFO] # display.bottom               = 0.00
+10/08/16 11:35:26  [INFO] # display.c_left               = -512.00
+10/08/16 11:35:26  [INFO] # display.c_right              = 512.00
+10/08/16 11:35:26  [INFO] # display.c_top                = 369.00
+10/08/16 11:35:26  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:35:26  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:35:26  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:35:26  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:35:26  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:35:26  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:35:26  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:35:26  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:35:26  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:35:26  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:35:26  [INFO] #
+10/08/16 11:35:27  GameMain 1 : init
+10/08/16 11:35:27  send:table: 0x08380df0
+10/08/16 11:35:27  send msg:{"msg_id":10000}   --    
+10/08/16 11:35:27  recv:{"msg_id":10000}   --    
+10/08/16 11:58:57  table: 0x0326a838
+10/08/16 11:58:57  [INFO] 
+10/08/16 11:58:57  [INFO] # DEBUG                        = 2
+10/08/16 11:58:57  [INFO] #
+10/08/16 11:58:57  [INFO] # device.platform              = windows
+10/08/16 11:58:57  [INFO] # device.model                 = unknown
+10/08/16 11:58:57  [INFO] # device.language              = cn
+10/08/16 11:58:57  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 11:58:57  [INFO] # device.directorySeparator    = \
+10/08/16 11:58:57  [INFO] # device.pathSeparator         = ;
+10/08/16 11:58:57  [INFO] #
+10/08/16 11:58:57  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 11:58:57  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 11:58:57  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 11:58:57  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 11:58:57  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 11:58:57  [INFO] # display.width                = 1024.00
+10/08/16 11:58:57  [INFO] # display.height               = 738.00
+10/08/16 11:58:57  [INFO] # display.cx                   = 512.00
+10/08/16 11:58:57  [INFO] # display.cy                   = 369.00
+10/08/16 11:58:57  [INFO] # display.left                 = 0.00
+10/08/16 11:58:57  [INFO] # display.right                = 1024.00
+10/08/16 11:58:57  [INFO] # display.top                  = 738.00
+10/08/16 11:58:57  [INFO] # display.bottom               = 0.00
+10/08/16 11:58:57  [INFO] # display.c_left               = -512.00
+10/08/16 11:58:57  [INFO] # display.c_right              = 512.00
+10/08/16 11:58:57  [INFO] # display.c_top                = 369.00
+10/08/16 11:58:57  [INFO] # display.c_bottom             = -369.00
+10/08/16 11:58:57  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 11:58:57  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 11:58:57  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 11:58:57  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 11:58:57  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 11:58:57  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 11:58:57  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 11:58:57  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 11:58:57  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 11:58:57  [INFO] #
+10/08/16 11:58:57  GameMain 1 : init
+10/08/16 11:58:57  send:table: 0x054ad638
+10/08/16 11:58:57  send msg:{"msg_id":10000}   --    
+10/08/16 12:00:19  table: 0x032ba838
+10/08/16 12:00:19  [INFO] 
+10/08/16 12:00:19  [INFO] # DEBUG                        = 2
+10/08/16 12:00:19  [INFO] #
+10/08/16 12:00:19  [INFO] # device.platform              = windows
+10/08/16 12:00:19  [INFO] # device.model                 = unknown
+10/08/16 12:00:19  [INFO] # device.language              = cn
+10/08/16 12:00:19  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 12:00:19  [INFO] # device.directorySeparator    = \
+10/08/16 12:00:19  [INFO] # device.pathSeparator         = ;
+10/08/16 12:00:19  [INFO] #
+10/08/16 12:00:19  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 12:00:19  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 12:00:19  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 12:00:19  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 12:00:19  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 12:00:19  [INFO] # display.width                = 1024.00
+10/08/16 12:00:19  [INFO] # display.height               = 738.00
+10/08/16 12:00:19  [INFO] # display.cx                   = 512.00
+10/08/16 12:00:19  [INFO] # display.cy                   = 369.00
+10/08/16 12:00:19  [INFO] # display.left                 = 0.00
+10/08/16 12:00:19  [INFO] # display.right                = 1024.00
+10/08/16 12:00:19  [INFO] # display.top                  = 738.00
+10/08/16 12:00:19  [INFO] # display.bottom               = 0.00
+10/08/16 12:00:19  [INFO] # display.c_left               = -512.00
+10/08/16 12:00:19  [INFO] # display.c_right              = 512.00
+10/08/16 12:00:19  [INFO] # display.c_top                = 369.00
+10/08/16 12:00:19  [INFO] # display.c_bottom             = -369.00
+10/08/16 12:00:19  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 12:00:19  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 12:00:19  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 12:00:19  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 12:00:19  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 12:00:19  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 12:00:19  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 12:00:19  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 12:00:19  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 12:00:19  [INFO] #
+10/08/16 12:00:19  GameMain 1 : init
+10/08/16 12:00:19  send:table: 0x0522fa58
+10/08/16 12:00:19  send msg:{"msg_id":10000,"content":"i want to eat..."}   --    
+10/08/16 14:13:15  table: 0x02eba838
+10/08/16 14:13:15  [INFO] 
+10/08/16 14:13:15  [INFO] # DEBUG                        = 2
+10/08/16 14:13:15  [INFO] #
+10/08/16 14:13:15  [INFO] # device.platform              = windows
+10/08/16 14:13:15  [INFO] # device.model                 = unknown
+10/08/16 14:13:15  [INFO] # device.language              = cn
+10/08/16 14:13:15  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 14:13:15  [INFO] # device.directorySeparator    = \
+10/08/16 14:13:15  [INFO] # device.pathSeparator         = ;
+10/08/16 14:13:15  [INFO] #
+10/08/16 14:13:15  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 14:13:15  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 14:13:15  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 14:13:15  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 14:13:15  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 14:13:15  [INFO] # display.width                = 1024.00
+10/08/16 14:13:15  [INFO] # display.height               = 738.00
+10/08/16 14:13:15  [INFO] # display.cx                   = 512.00
+10/08/16 14:13:15  [INFO] # display.cy                   = 369.00
+10/08/16 14:13:15  [INFO] # display.left                 = 0.00
+10/08/16 14:13:15  [INFO] # display.right                = 1024.00
+10/08/16 14:13:15  [INFO] # display.top                  = 738.00
+10/08/16 14:13:15  [INFO] # display.bottom               = 0.00
+10/08/16 14:13:15  [INFO] # display.c_left               = -512.00
+10/08/16 14:13:15  [INFO] # display.c_right              = 512.00
+10/08/16 14:13:15  [INFO] # display.c_top                = 369.00
+10/08/16 14:13:15  [INFO] # display.c_bottom             = -369.00
+10/08/16 14:13:15  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 14:13:15  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 14:13:15  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 14:13:15  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 14:13:15  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 14:13:15  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 14:13:15  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 14:13:15  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 14:13:15  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 14:13:15  [INFO] #
+10/08/16 14:13:15  GameMain 1 : init
+10/08/16 14:13:15  send:table: 0x04ef9b98
+10/08/16 14:13:15  send msg:{"msg_id":10000,"content":"i want to eat..."}   --    
+10/08/16 16:25:08  table: 0x04cba838
+10/08/16 16:25:08  [INFO] 
+10/08/16 16:25:08  [INFO] # DEBUG                        = 2
+10/08/16 16:25:08  [INFO] #
+10/08/16 16:25:08  [INFO] # device.platform              = windows
+10/08/16 16:25:08  [INFO] # device.model                 = unknown
+10/08/16 16:25:08  [INFO] # device.language              = cn
+10/08/16 16:25:08  [INFO] # device.writablePath          = E:\mywork\tankwar\client\
+10/08/16 16:25:08  [INFO] # device.directorySeparator    = \
+10/08/16 16:25:08  [INFO] # device.pathSeparator         = ;
+10/08/16 16:25:08  [INFO] #
+10/08/16 16:25:08  [INFO] # design resolution size       = {width = 1024.00, height = 580.00}
+10/08/16 16:25:08  [INFO] # design resolution autoscale  = FIXED_WIDTH
+10/08/16 16:25:08  [INFO] # display.sizeInPixels         = {width = 1024.00, height = 738.00}
+10/08/16 16:25:08  [INFO] # display.size                 = {width = 1024.00, height = 738.00}
+10/08/16 16:25:08  [INFO] # display.contentScaleFactor   = 1.00
+10/08/16 16:25:08  [INFO] # display.width                = 1024.00
+10/08/16 16:25:08  [INFO] # display.height               = 738.00
+10/08/16 16:25:08  [INFO] # display.cx                   = 512.00
+10/08/16 16:25:08  [INFO] # display.cy                   = 369.00
+10/08/16 16:25:08  [INFO] # display.left                 = 0.00
+10/08/16 16:25:08  [INFO] # display.right                = 1024.00
+10/08/16 16:25:08  [INFO] # display.top                  = 738.00
+10/08/16 16:25:08  [INFO] # display.bottom               = 0.00
+10/08/16 16:25:08  [INFO] # display.c_left               = -512.00
+10/08/16 16:25:08  [INFO] # display.c_right              = 512.00
+10/08/16 16:25:08  [INFO] # display.c_top                = 369.00
+10/08/16 16:25:08  [INFO] # display.c_bottom             = -369.00
+10/08/16 16:25:08  [INFO] # display.center               = {x = 512.00, y = 369.00}
+10/08/16 16:25:08  [INFO] # display.left_top             = {x = 0.00, y = 738.00}
+10/08/16 16:25:08  [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+10/08/16 16:25:08  [INFO] # display.left_center          = {x = 0.00, y = 369.00}
+10/08/16 16:25:08  [INFO] # display.right_top            = {x = 1024.00, y = 738.00}
+10/08/16 16:25:08  [INFO] # display.right_bottom         = {x = 1024.00, y = 0.00}
+10/08/16 16:25:08  [INFO] # display.right_center         = {x = 1024.00, y = 369.00}
+10/08/16 16:25:08  [INFO] # display.top_center           = {x = 512.00, y = 738.00}
+10/08/16 16:25:08  [INFO] # display.top_bottom           = {x = 512.00, y = 0.00}
+10/08/16 16:25:08  [INFO] #
+10/08/16 16:25:08  GameMain 1 : init
+10/08/16 16:25:08  send:table: 0x052cb3c8
+10/08/16 16:25:09  send msg:{"msg_id":10000,"content":"i want to eat..."}   --    
