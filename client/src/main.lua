@@ -19,7 +19,8 @@ require "config"
 require "cocos.init"
 
 local function main()
-	print("wo kao")
+    local scn = require("scene2"):createScene(1, {ip="localhost", port=8080})
+	cc.Director:getInstance():replaceScene(scn)
 end
 
 local status, msg = xpcall(main, __G__TRACKBACK__)
