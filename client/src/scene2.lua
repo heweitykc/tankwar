@@ -39,7 +39,7 @@ end
 
 function GameMain1:sendEnterGame()
     local msgobj = {}
-    msgobj["id"] = NETMSG.ENTER
+    msgobj["id"] = NETMSG.ENTER	
     self.client:send(msgobj)
 end
 
