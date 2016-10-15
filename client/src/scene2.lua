@@ -64,7 +64,8 @@ end
 
 function GameMain1:recvFunc()
     return function(msg)		
-        if msg.id == NETMSG._ENTER then
+		print("msg = " ..  json.decode(msg))
+        if msg.id == NETMSG._ENTER then			
             if msg.init ~= nil then self:initRoom(msg)
 			elseif msg.enter ~= nil then self:playerEnter(msg)
 			elseif msg.leave ~= nil then self:playerLeave(msg)
@@ -79,8 +80,11 @@ function GameMain1:recvFunc()
     end
 end
 
-function GameMain1:initRoom(msg)
-	print("initRoom")
+function GameMain1:initRoom(msg)	
+	local num = table.nums(msg.room)
+	for k, p in  pairs(msg.room) do
+		print("p.uid = " .. p.uid)
+	end
 end
 
 function GameMain1:playerEnter(msg)
