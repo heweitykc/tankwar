@@ -1,11 +1,12 @@
 -- 游戏场景基类
 local GameClient = require("network/gameclient")
+print = release_print
 
 local GameMain1 = {} 
 
 local NETMSG = {
     ENTER = 10000,    MOVE = 10010,   FIRE = 10020,
-    _ENTER = 10001,  _MOVE = 10011,  _FIRE = 10021, _NEWPLAYER = 20001
+    _ENTER = 10001,  _MOVE = 10011,  _FIRE = 10021
 }
 
 local COMMON_COLOR = cc.c3b(255,255,255)
@@ -62,17 +63,32 @@ function GameMain1:loopFunc()
 end
 
 function GameMain1:recvFunc()
-    return function(msg)        
-        if msg.msg_id == NETMSG._ENTER then
+    return function(msg)		
+        if msg.id == NETMSG._ENTER then
+            if msg.init ~= nil then self:initRoom(msg)
+			elseif msg.enter ~= nil then self:playerEnter(msg)
+			elseif msg.leave ~= nil then self:playerLeave(msg)
+			end
+        elseif msg.id == NETMSG._MOVE then
             
-        elseif msg.msg_id == NETMSG._MOVE then
-            
-        elseif msg.msg_id == NETMSG._FIRE then
+        elseif msg.id == NETMSG._FIRE then
 		
-        elseif msg.msg_id == NETMSG._NEWPLAYER then
+        elseif msg.id == NETMSG._NEWPLAYER then
 		
         end
     end
+end
+
+function GameMain1:initRoom(msg)
+	print("initRoom")
+end
+
+function GameMain1:playerEnter(msg)
+	print("playerEnter")
+end
+
+function GameMain1:playerLeave(msg)
+	print("playerLeave")
 end
 
 function GameMain1:errFunc()
@@ -80,6 +96,5 @@ function GameMain1:errFunc()
         UIMgr:ShowDialog("error " .. tostring(errcode))
     end
 end
-
 
 return GameMain1
